@@ -1,0 +1,7 @@
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\bin\Debug\Objects&Array2.exe.config
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\bin\Debug\Objects&Array2.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\bin\Debug\Objects&Array2.pdb
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\obj\Debug\Objects&Array2.csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\obj\Debug\Objects&Array2.csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\obj\Debug\Objects&Array2.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array2\obj\Debug\Objects&Array2.pdb

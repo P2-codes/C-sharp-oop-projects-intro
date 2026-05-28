@@ -1,0 +1,7 @@
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\bin\Debug\Objects&Array(updated).exe.config
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\bin\Debug\Objects&Array(updated).exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\bin\Debug\Objects&Array(updated).pdb
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\obj\Debug\Objects&Array(updated).csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\obj\Debug\Objects&Array(updated).csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\obj\Debug\Objects&Array(updated).exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Array(updated)\obj\Debug\Objects&Array(updated).pdb

@@ -1,0 +1,7 @@
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\bin\Debug\Objects&Classes2.exe.config
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\bin\Debug\Objects&Classes2.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\bin\Debug\Objects&Classes2.pdb
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\obj\Debug\Objects&Classes2.csproj.AssemblyReference.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\obj\Debug\Objects&Classes2.csproj.CoreCompileInputs.cache
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\obj\Debug\Objects&Classes2.exe
+C:\Users\Phathutshedzo\OneDrive\Documents\BIT\CLASS PROJECTS\Objects&Classes2\obj\Debug\Objects&Classes2.pdb
