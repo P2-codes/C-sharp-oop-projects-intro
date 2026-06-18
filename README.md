@@ -1,2 +1,2 @@
-# C--PRACS
-All weekly C# OOP practicals
+# C-sharp oop projects-intro
+Weekly C# OOP practicals 
